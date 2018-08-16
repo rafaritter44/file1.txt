@@ -1,15 +1,1 @@
-# file1.txt
-
-
-<<<<<<< HEAD
-
-// Alterações remotas de sincronização
-
-aaaaaaa
-=======
-altereção github
->>>>>>> cd467774f5455aece6ff904470e6c1fb829842c6
-
-
-alteração 3
-
+edicao forkada
