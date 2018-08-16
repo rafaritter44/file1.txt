@@ -1,1 +1,7 @@
 # file1.txt
+
+
+
+// Alterações remotas de sincronização
+
+aaaaaaa
